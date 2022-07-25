@@ -1,5 +1,8 @@
-# nycscertweb
+# Welcome!
 *Yanique Sears*
+
+
+![5f906a327234d32313650356c5595178](https://user-images.githubusercontent.com/20462997/180848818-5591e0f8-dead-4156-9871-9dd33d6f16ba.jpeg)
 
 **Summer 2022 Data Structures** 
 
