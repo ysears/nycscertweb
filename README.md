@@ -17,4 +17,6 @@
 [CS Unplugged Activity](https://replit.com/@ysears/cohort-3-summer-work-ysears#methods/04_unplugged.md)
 
 
+
+## More to Come!
 ![kermit-typing](https://user-images.githubusercontent.com/20462997/180849596-ed6f91a8-babe-4500-b1ff-9f4146b9e985.gif)
