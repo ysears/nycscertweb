@@ -1,3 +1,3 @@
 # nycscertweb
-Putting something in the readme file! 
-Too afraid to do anything else! :-)
+Summer 2022 Data Structures 
+https://replit.com/@ysears/cohort-3-summer-work-ysears#ds/arraylists/Alpractice.java
